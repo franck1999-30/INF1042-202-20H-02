@@ -8,7 +8,7 @@ Introduction à la programmation (Algorithmes)
 
 ## Déroulement de cours:
 
-|# | Date   |                                          |     Commentaires                                                   |
+|# | Semaine|                                          |     Commentaires                                                   |
 |--|:------:|:-----------------------------------------|:-------------------------------------------------------------------|
 |01|06-01-20|                                          | Rentrée des classes                                                |
 |02|13-01-20| Chapitre 1                               | Introduction to algorithms                                         |
