@@ -5,16 +5,6 @@ Introduction à la programmation (Algorithmes)
 
 | Date   |                     |     Commentaires                                                                         |
 |:------:|:--------------------|:-----------------------------------------------------------------------------------------|
-|12-12-18| Chapitre 8          | [6.Greedy](6.Greedy), suivre les instructions                                            |
-|07-12-18| Chapitre 7          | [5.Dijkstra](5.Dijkstra), suivre les instructions                                        |
-|16-11-18| Chapitre 6          | [4.BFS](4.BFS), suivre les instructions                                                  |
-|09-11-18| Chapitre 5          | [3.HashTables](3.HashTables), suivre les instructions                                    |
-|02-11-18| Chapitre 4          | [2.QuickSort](2.QuickSort), suivre les instructions                                      |
-|05-10-18| Chapitre 2          | [1.SelectionSort](1.SelectionSort), suivre les instructions                              |
-|28-09-18| Code et github      | Creer un compte github, Créer compte IntelliJ, Installer WebStorm                        |
-|21-09-18| Chapitre 1          | Terminer de lire le chapitre                                                             |
-|14-09-18| ...                 | Film Algorithmes sur Netflix      (tiers de la classe présente)                          |
-|07-09-18| ...                 | Début des cours (Introduction au programme)                                              |
 
 ## Déroulement de cours:
 
