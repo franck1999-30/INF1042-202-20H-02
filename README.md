@@ -16,6 +16,27 @@ Introduction à la programmation (Algorithmes)
 |14-09-18| ...                 | Film Algorithmes sur Netflix      (tiers de la classe présente)                          |
 |07-09-18| ...                 | Début des cours (Introduction au programme)                                              |
 
+## Déroulement de cours:
+
+|# | Date   |                                                     |     Commentaires                                                   |
+|--|:------:|:-----------------------------------------|:-------------------------------------------------------------------|
+|01|03-09-19|                                          | Rentrée des classes                                                |
+|02|10-09-19| [Docker](./0.Docker)                     | Install MySQL with Docker                                          |
+|03|17-09-19| [3NF](./1.3NF)                           | * Domaine, * 1NF, * 2NF, * 3NF                                     |
+|04|24-09-19| :x:                                      | Pratique NF                                                        |
+|05|01-10-19| [DQL](2.DQL)                             | Data Query Language                                                |
+|06|08-10-19| [DCL]() & [DDL]()                        | Data Control Language   & Data Description Language                |
+|07|15-10-19| [DML](4.DML)                             | Data Manipulation Language                                         |
+|08|22-10-19| Semaine d'études                         | Pas de cours                                                       |
+|09|29-10-19| [DQL]()                                  | Data Query Language                                                |
+|10|05-11-19| TBD                                      | TBD                                                                |
+|11|12-11-19| [Quiz](5.DML-Quiz)                       | TBD                                                                |
+|12|19-11-19| [AWS RDS](R.RDS)                         | Test                                                               |
+|13|26-11-19| [C.Constraints](C.Constraints)           | Constraints & Index                                                |
+|14|03-12-19| TBD                                      | TBD                                                                |
+|15|10-12-19| TBD                                      | TBD                                                                |
+
+
 ## Elements de Performance
 
 |No| Date   | Cours               | Intitulé                         |  Structure de donnees       | Structure de controle            |
