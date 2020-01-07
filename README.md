@@ -58,6 +58,6 @@ Introduction à la programmation (Algorithmes)
 
 | Site                            | Lien                                                                             |
 |:--------------------------------|:---------------------------------------------------------------------------------|
-| Al-Khwarizmi                    | https://www.youtube.com/watch?v=oRkNaF0QvnI                                      |
+| Muhammad al-Khwarizmi           | https://www.youtube.com/watch?v=oRkNaF0QvnI                                      |
 
 
