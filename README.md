@@ -39,12 +39,25 @@ Introduction à la programmation (Algorithmes)
 
 # References:
 
-|Site| Lien   |
-|--------------------------------|--------|
-|Manning Grokking Algorithms .   |[Manning Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|
-|Tutorials Point                 |[DSA](http://www.tutorialspoint.com/data_structures_algorithms)|
-| IDE | [GeeksForGeeks](https://ide.geeksforgeeks.org) |
-| Python | https://www.geeksforgeeks.org/python-programming-language/ |
-| Python Water Pouring | [CodeReview](https://codereview.stackexchange.com/questions/78586/pouring-water-between-two-jugs-to-get-a-certain-amount-in-one-of-the-jugs) |
+| Site                            | Lien                                                                             |
+|:--------------------------------|:---------------------------------------------------------------------------------|
+| Manning Grokking Algorithms .   | [Manning Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) |
+| Tutorials Point                 | [DSA](http://www.tutorialspoint.com/data_structures_algorithms)                  |
+| IDE                             | [GeeksForGeeks](https://ide.geeksforgeeks.org)                                   |
+| Python                          | https://www.geeksforgeeks.org/python-programming-language/                       |
+
+
+### Example d'algorithmes:
+
+| Site                            | Lien                                                                             |
+|:--------------------------------|:---------------------------------------------------------------------------------|
+| Python Water Pouring            | [CodeReview](https://codereview.stackexchange.com/questions/78586/pouring-water-between-two-jugs-to-get-a-certain-amount-in-one-of-the-jugs) |
+
+
+### Vidéos:
+
+| Site                            | Lien                                                                             |
+|:--------------------------------|:---------------------------------------------------------------------------------|
+| Al-Khwarizmi                    | https://www.youtube.com/watch?v=oRkNaF0QvnI                                      |
 
 
