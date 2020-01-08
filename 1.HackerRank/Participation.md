@@ -4,8 +4,6 @@
 |------|------------|------------------------------------|-------------------------------------------------------| 
 |   00 |  300098957 | Rpbert, `Brice`                    | [setrar](https://www.hackerrank.com/setrar)           |
 |   01 |  300111441 | Fofana, `Sékou`                    | [Sekou16](https://github.com/Sekou16)                 |
-|   02 |  300111824 | Mansiantima, Mayuma `Blévie`       | [300111824](https://github.com/300111824)             |
-|   03 |  300114153 | Bounguab, `Yassine`                | [yassineloco](https://github.com/yassineloco)         |
 |   04 |  300115065 | Fadde, `Abdelkrim`                 | [fadde68](https://github.com/fadde68)                 |
 |   05 |  300115140 | Sadi-Bourouih, Mouloud `Zack`      | [ZackTO](https://github.com/ZackTO)                   |
 |   06 |  300116370 | Ouahhabi, `Khalid`                 | [khal1967](https://github.com/khal1967)               |
