@@ -19,4 +19,4 @@
 |   16 |  300117784 | Moyou Fotue, `Bertrand`            | [BertrandMoyou](https://github.com/BertrandMoyou)     |
 |   17 |  300117806 | Garba Djibo, `Hassana`             | [djibo648](https://github.com/djibo648)               |
 |   18 |  300118196 | Nguekam Ndjemou, `Franck` Christin | [ndjemou199](https://github.com/ndjemou199)           |
-|   19 |  300118524 | Ouro-Gouni, `Zouréni`              | [zoureni](https://github.com/zoureni)                 |
+|   19 |  300118524 | Ouro-Gouni, `Zouréni`              | [zoureni](https://www.hackerrank.com/zoureni)                 |
