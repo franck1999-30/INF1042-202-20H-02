@@ -13,7 +13,7 @@
 |   10 |  300116973 | Lago Kamdem, `Nathalie`            | [lagokamdem87](https://www.hackerrank.com/lagokamdem87)           |
 |   11 |  300117178 | Ngaleu Kwayep, Willfrid `Boris`    | [boriskwayep35](https://www.hackerrank.com/boriskwayep35)       |
 |   12 |  300117314 | Giyahtazeh, `Mortéza`              | [mrgt747](https://www.hackerrank.com/mrgt747)               |
-|   13 |  300117444 | Abib, `Idir`                       | [dido05327](https://github.com/dido05327)             |
+|   13 |  300117444 | Abib, `Idir`                       | [idirabib](https://www.hackerrank.com/idirabib)             |
 |   14 |  300117705 | Archange, `Corlings`               | [playboikz](https://github.com/playboikz)             |
 |   15 |  300117782 | Njia Yimbou, Raissa `Erna`         | [Raissa111](https://github.com/Raissa111)             |
 |   16 |  300117784 | Moyou Fotue, `Bertrand`            | [BertrandMoyou](https://github.com/BertrandMoyou)     |
