@@ -10,7 +10,7 @@
 |   07 |  300116593 | Hamid, Adam `Souleymane`           | [hamidadammallim](https://www.hackerrank.com/hamidadammallim)         |
 |   08 |  300116670 | Kouta-Deassio, Marie `Auriane`     | [kdmarieauriane](https://www.hackerrank.com/kdmarieauriane)             |
 |   19 |  300116685 | Abdullahi, `Amir` Ali              | [:warning:](https://github.com/amirali175)           |
-|   10 |  300116973 | Lago Kamdem, `Nathalie`            | [lagokamdem](https://github.com/lagokamdem)           |
+|   10 |  300116973 | Lago Kamdem, `Nathalie`            | [lagokamdem87](https://www.hackerrank.com/lagokamdem87)           |
 |   11 |  300117178 | Ngaleu Kwayep, Willfrid `Boris`    | [Wilfridboris](https://github.com/Wilfridboris)       |
 |   12 |  300117314 | Giyahtazeh, `Mortéza`              | [morti747](https://github.com/morti747)               |
 |   13 |  300117444 | Abib, `Idir`                       | [dido05327](https://github.com/dido05327)             |
