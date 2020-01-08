@@ -15,7 +15,7 @@
 |   12 |  300117314 | Giyahtazeh, `Mortéza`              | [mrgt747](https://www.hackerrank.com/mrgt747)               |
 |   13 |  300117444 | Abib, `Idir`                       | [idirabib](https://www.hackerrank.com/idirabib)             |
 |   14 |  300117705 | Archange, `Corlings`               | [acorlings](https://www.hackerrank.com/acorlings)             |
-|   15 |  300117782 | Njia Yimbou, Raissa `Erna`         | [Raissa111](https://github.com/Raissa111)             |
+|   15 |  300117782 | Njia Yimbou, Raissa `Erna`         | [ernanjia](https://www.hackerrank.com/ernanjia)             |
 |   16 |  300117784 | Moyou Fotue, `Bertrand`            | [BertrandMoyou](https://github.com/BertrandMoyou)     |
 |   17 |  300117806 | Garba Djibo, `Hassana`             | [djibo648](https://github.com/djibo648)               |
 |   18 |  300118196 | Nguekam Ndjemou, `Franck` Christin | [ndjemou199](https://github.com/ndjemou199)           |
