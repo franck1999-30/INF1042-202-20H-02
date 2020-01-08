@@ -17,6 +17,6 @@
 |   14 |  300117705 | Archange, `Corlings`               | [acorlings](https://www.hackerrank.com/acorlings)             |
 |   15 |  300117782 | Njia Yimbou, Raissa `Erna`         | [ernanjia](https://www.hackerrank.com/ernanjia)             |
 |   16 |  300117784 | Moyou Fotue, `Bertrand`            | [moyoubertrand](https://www.hackerrank.com/moyoubertrand)     |
-|   17 |  300117806 | Garba Djibo, `Hassana`             | [djibo648](https://github.com/djibo648)               |
+|   17 |  300117806 | Garba Djibo, `Hassana`             | [hassanag70](https://www.hackerrank.com/hassanag70)               |
 |   18 |  300118196 | Nguekam Ndjemou, `Franck` Christin | [ndjemou199](https://github.com/ndjemou199)           |
 |   19 |  300118524 | Ouro-Gouni, `Zouréni`              | [zoureni](https://www.hackerrank.com/zoureni)                 |
