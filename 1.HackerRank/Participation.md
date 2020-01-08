@@ -2,6 +2,7 @@
 
 |:hash:| Boréal :id:| Nom, Prénoms .                     |  Github :id:                                          |
 |------|------------|------------------------------------|-------------------------------------------------------| 
+|   00 |  300098957 | Rpbert, `Brice`                    | [setrar](https://www.hackerrank.com/setrar)           |
 |   01 |  300111441 | Fofana, `Sékou`                    | [Sekou16](https://github.com/Sekou16)                 |
 |   02 |  300111824 | Mansiantima, Mayuma `Blévie`       | [300111824](https://github.com/300111824)             |
 |   03 |  300114153 | Bounguab, `Yassine`                | [yassineloco](https://github.com/yassineloco)         |
