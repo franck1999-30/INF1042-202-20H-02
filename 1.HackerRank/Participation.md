@@ -11,7 +11,7 @@
 |   08 |  300116670 | Kouta-Deassio, Marie `Auriane`     | [kdmarieauriane](https://www.hackerrank.com/kdmarieauriane)             |
 |   19 |  300116685 | Abdullahi, `Amir` Ali              | [:warning:](https://github.com/amirali175)           |
 |   10 |  300116973 | Lago Kamdem, `Nathalie`            | [lagokamdem87](https://www.hackerrank.com/lagokamdem87)           |
-|   11 |  300117178 | Ngaleu Kwayep, Willfrid `Boris`    | [Wilfridboris](https://github.com/Wilfridboris)       |
+|   11 |  300117178 | Ngaleu Kwayep, Willfrid `Boris`    | [boriskwayep35](https://www.hackerrank.com/boriskwayep35)       |
 |   12 |  300117314 | Giyahtazeh, `Mortéza`              | [morti747](https://github.com/morti747)               |
 |   13 |  300117444 | Abib, `Idir`                       | [dido05327](https://github.com/dido05327)             |
 |   14 |  300117705 | Archange, `Corlings`               | [playboikz](https://github.com/playboikz)             |
