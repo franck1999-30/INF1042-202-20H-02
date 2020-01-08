@@ -54,6 +54,13 @@ Introduction à la programmation (Algorithmes)
 | Python Water Pouring            | [CodeReview](https://codereview.stackexchange.com/questions/78586/pouring-water-between-two-jugs-to-get-a-certain-amount-in-one-of-the-jugs) |
 
 
+## Coding Paradigm
+
+| Site                            | Lien                                                                             |
+|:--------------------------------|:---------------------------------------------------------------------------------|
+| Functional Programming in Python| https://stackabuse.com/functional-programming-in-python/                         |
+
+
 ### Vidéos:
 
 | Site                            | Lien                                                                             |
