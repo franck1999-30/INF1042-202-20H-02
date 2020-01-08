@@ -14,7 +14,7 @@
 |   11 |  300117178 | Ngaleu Kwayep, Willfrid `Boris`    | [boriskwayep35](https://www.hackerrank.com/boriskwayep35)       |
 |   12 |  300117314 | Giyahtazeh, `Mortéza`              | [mrgt747](https://www.hackerrank.com/mrgt747)               |
 |   13 |  300117444 | Abib, `Idir`                       | [idirabib](https://www.hackerrank.com/idirabib)             |
-|   14 |  300117705 | Archange, `Corlings`               | [playboikz](https://www.hackerrank.com/playboikz)             |
+|   14 |  300117705 | Archange, `Corlings`               | [acorlings](https://www.hackerrank.com/acorlings)             |
 |   15 |  300117782 | Njia Yimbou, Raissa `Erna`         | [Raissa111](https://github.com/Raissa111)             |
 |   16 |  300117784 | Moyou Fotue, `Bertrand`            | [BertrandMoyou](https://github.com/BertrandMoyou)     |
 |   17 |  300117806 | Garba Djibo, `Hassana`             | [djibo648](https://github.com/djibo648)               |
