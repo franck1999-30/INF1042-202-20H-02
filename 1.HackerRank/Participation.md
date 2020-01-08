@@ -12,7 +12,7 @@
 |   19 |  300116685 | Abdullahi, `Amir` Ali              | [:warning:](https://github.com/amirali175)           |
 |   10 |  300116973 | Lago Kamdem, `Nathalie`            | [lagokamdem87](https://www.hackerrank.com/lagokamdem87)           |
 |   11 |  300117178 | Ngaleu Kwayep, Willfrid `Boris`    | [boriskwayep35](https://www.hackerrank.com/boriskwayep35)       |
-|   12 |  300117314 | Giyahtazeh, `Mortéza`              | [morti747](https://www.hackerrank.com/morti747)               |
+|   12 |  300117314 | Giyahtazeh, `Mortéza`              | [mrgt747](https://www.hackerrank.com/mrgt747)               |
 |   13 |  300117444 | Abib, `Idir`                       | [dido05327](https://github.com/dido05327)             |
 |   14 |  300117705 | Archange, `Corlings`               | [playboikz](https://github.com/playboikz)             |
 |   15 |  300117782 | Njia Yimbou, Raissa `Erna`         | [Raissa111](https://github.com/Raissa111)             |
