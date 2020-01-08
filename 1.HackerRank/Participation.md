@@ -5,8 +5,8 @@
 |   00 |  300098957 | Rpbert, `Brice`                    | [setrar](https://www.hackerrank.com/setrar)           |
 |   01 |  300111441 | Fofana, `Sékou`                    | [:warning:](https://github.com/Sekou16)               |
 |   04 |  300115065 | Fadde, `Abdelkrim`                 | [:warning:](https://github.com/fadde68)               |
-|   05 |  300115140 | Sadi-Bourouih, Mouloud `Zack`      | [ZackTO](https://github.com/ZackTO)                   |
-|   06 |  300116370 | Ouahhabi, `Khalid`                 | [khal1967](https://github.com/khal1967)               |
+|   05 |  300115140 | Sadi-Bourouih, Mouloud `Zack`      | [zackstoronto](https://www.hackerrank.com/zackstoronto) |
+|   06 |  300116370 | Ouahhabi, `Khalid`                 | [khalouah67](https://www.hackerrank.com/khalouah67)               |
 |   07 |  300116593 | Hamid, Adam `Souleymane`           | [hamidmallim](https://github.com/hamidmallim)         |
 |   08 |  300116670 | Kouta-Deassio, Marie `Auriane`     | [Auriane25](https://github.com/Auriane25)             |
 |   19 |  300116685 | Abdullahi, `Amir` Ali              | [amirali175](https://github.com/amirali175)           |
