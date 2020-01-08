@@ -7,7 +7,7 @@
 |   04 |  300115065 | Fadde, `Abdelkrim`                 | [:warning:](https://github.com/fadde68)               |
 |   05 |  300115140 | Sadi-Bourouih, Mouloud `Zack`      | [zackstoronto](https://www.hackerrank.com/zackstoronto) |
 |   06 |  300116370 | Ouahhabi, `Khalid`                 | [khalouah67](https://www.hackerrank.com/khalouah67)               |
-|   07 |  300116593 | Hamid, Adam `Souleymane`           | [hamidmallim](https://www.hackerrank.com/hamidmallim)         |
+|   07 |  300116593 | Hamid, Adam `Souleymane`           | [hamidadammllim](https://www.hackerrank.com/hamidadammllim)         |
 |   08 |  300116670 | Kouta-Deassio, Marie `Auriane`     | [Auriane25](https://github.com/Auriane25)             |
 |   19 |  300116685 | Abdullahi, `Amir` Ali              | [amirali175](https://github.com/amirali175)           |
 |   10 |  300116973 | Lago Kamdem, `Nathalie`            | [lagokamdem](https://github.com/lagokamdem)           |
