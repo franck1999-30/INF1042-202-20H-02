@@ -3,8 +3,8 @@
 |:hash:| Boréal :id:| Nom, Prénoms .                     |  Github :id:                                          |
 |------|------------|------------------------------------|-------------------------------------------------------| 
 |   00 |  300098957 | Rpbert, `Brice`                    | [setrar](https://www.hackerrank.com/setrar)           |
-|   01 |  300111441 | Fofana, `Sékou`                    | [Sekou16](https://github.com/Sekou16)                 |
-|   04 |  300115065 | Fadde, `Abdelkrim`                 | [fadde68](https://github.com/fadde68)                 |
+|   01 |  300111441 | Fofana, `Sékou`                    | [:warning:](https://github.com/Sekou16)               |
+|   04 |  300115065 | Fadde, `Abdelkrim`                 | [:warning:](https://github.com/fadde68)               |
 |   05 |  300115140 | Sadi-Bourouih, Mouloud `Zack`      | [ZackTO](https://github.com/ZackTO)                   |
 |   06 |  300116370 | Ouahhabi, `Khalid`                 | [khal1967](https://github.com/khal1967)               |
 |   07 |  300116593 | Hamid, Adam `Souleymane`           | [hamidmallim](https://github.com/hamidmallim)         |
