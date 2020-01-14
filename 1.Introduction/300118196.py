@@ -1,3 +1,7 @@
 #-*- coding: utf-8 -*-
 
-print("bonne année")
+def année(n):
+    for i in range(10):
+        print("bonne année")
+
+année(4)
