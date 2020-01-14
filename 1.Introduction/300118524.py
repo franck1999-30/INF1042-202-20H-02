@@ -6,4 +6,6 @@ Created on Tue Jan 14 15:13:12 2020
 @author: zoureni
 """
 
-print("BONNE ANNÉE")
+for v in range (10):
+    print("BONNE ANNÉE")
+    
