@@ -4,7 +4,7 @@
 |------|------------|------------------------------------|-------------------------------------------------------| 
 |   00 |  300098957 | Rpbert, `Brice`                    | [setrar](https://www.hackerrank.com/setrar)           |
 |   01 |  300111441 | Fofana, `Sékou`                    | [skofofanaboreal](https://www.hackerrank.com/skofofanaboreal) |
-|   04 |  300115065 | Fadde, `Abdelkrim`                 | [fadde68](https://www.hackerrank.com/fadde68)               |
+|   04 |  300115065 | Fadde, `Abdelkrim`                 | [akramfadde0](https://www.hackerrank.com/akramfadde0)               |
 |   05 |  300115140 | Sadi-Bourouih, Mouloud `Zack`      | [zackstoronto](https://www.hackerrank.com/zackstoronto) |
 |   06 |  300116370 | Ouahhabi, `Khalid`                 | [khalouah67](https://www.hackerrank.com/khalouah67)               |
 |   07 |  300116593 | Hamid, Adam `Souleymane`           | [hamidadammallim](https://www.hackerrank.com/hamidadammallim)         |
