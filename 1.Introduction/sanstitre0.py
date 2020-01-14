@@ -4,4 +4,4 @@ Created on Tue Jan 14 15:15:20 2020
 
 @author: kdmar
 """
-print ('Bonne annee')
+print   (10 * 'Bonne annee\n') #O(1)
