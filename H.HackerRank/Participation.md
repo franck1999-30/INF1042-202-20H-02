@@ -18,5 +18,5 @@
 |   15 |  300117782 | Njia Yimbou, Raissa `Erna`         | [ernanjia](https://www.hackerrank.com/ernanjia)             |
 |   16 |  300117784 | Moyou Fotue, `Bertrand`            | [moyoubertrand](https://www.hackerrank.com/moyoubertrand)     |
 |   17 |  300117806 | Garba Djibo, `Hassana`             | [hassanag70](https://www.hackerrank.com/hassanag70)               |
-|   18 |  300118196 | Nguekam Ndjemou, `Franck` Christin | [christinnguekam](https://www.hackerrank.com/christin_franck)           |
+|   18 |  300118196 | Nguekam Ndjemou, `Franck` Christin | [christin_franck](https://www.hackerrank.com/christin_franck)           |
 |   19 |  300118524 | Ouro-Gouni, `Zouréni`              | [zoureni](https://www.hackerrank.com/zoureni)                 |
