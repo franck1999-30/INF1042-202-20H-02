@@ -9,10 +9,11 @@ print('Bonne annee 2020')
 
 # Imprimer 10 X Bonne annee 
 
-print(10 * 'Bonne annee/n') 
+print(10 * 'Bonne annee/n') # 0(1)
 
 # print 10 x bonne annee 
 
-for i in range(0,10):
+for i in range(0,10):    # o(log1)
     print('Bonne annee')
+
 
