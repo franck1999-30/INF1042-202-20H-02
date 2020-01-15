@@ -18,10 +18,11 @@ def binary_search(list,  item):
             high = mid - 1
         else:
             low = mid + 1
-    return item
+    return None
         
 
 
 my_list = [5,7,11,14,19,20,25] 
 
 print(binary_search(my_list, 11)) # => 1 
+print(binary_search(my_list, 3)) # => item 
