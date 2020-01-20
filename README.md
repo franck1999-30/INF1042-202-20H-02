@@ -16,7 +16,7 @@ Introduction à la programmation (Algorithmes)
 |# | Semaine|                                          |     Commentaires                                                   |
 |--|:------:|:-----------------------------------------|:-------------------------------------------------------------------|
 |01|06-01-20|                                          | Rentrée des classes                                                |
-|02|13-01-20| Chapitre 1                               | Introduction to algorithms                                         |
+|02|13-01-20| Chapitre 1                               | [1.Introduction] to algorithms                                     |
 |03|20-01-20| Chapitre 2                               | [2.SelectionSort](2.SelectionSort), suivre les instructions        |
 |04|27-01-20| Chapitre 3                               | [3.Recursion](3.Recursion), suivre les instructions                |
 |05|03-02-20| Chapitre 4                               | [2.QuickSort](2.QuickSort), suivre les instructions                |
