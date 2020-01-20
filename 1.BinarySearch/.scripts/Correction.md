@@ -1,4 +1,4 @@
-# Corrections au 20-01-2020 13:28
+# Corrections au 20-01-2020 13:42
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
@@ -11,7 +11,7 @@ None
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
-  File "300115065.py", line 1
+  File "b300115065.py", line 1
     Created on Wed Jan 15 15:28:59 2020
              ^
 SyntaxError: invalid syntax
@@ -28,14 +28,14 @@ SyntaxError: invalid syntax
 ## Etudiant 300116370 
 ###  =[BEGIN]============== Exécution du script 300116370 =============== 
 ```
-python: can't open file '300116370.py': [Errno 2] No such file or directory
+python: can't open file 'b300116370.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300116370 =============== 
 
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-python: can't open file '300116593.py': [Errno 2] No such file or directory
+python: can't open file 'b300116593.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
@@ -49,7 +49,7 @@ python: can't open file '300116593.py': [Errno 2] No such file or directory
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
-python: can't open file '300116685.py': [Errno 2] No such file or directory
+python: can't open file 'b300116685.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300116685 =============== 
 
@@ -71,7 +71,7 @@ python: can't open file '300116685.py': [Errno 2] No such file or directory
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-  File "300117314.py", line 25
+  File "b300117314.py", line 25
     pas fini !!!!!!!!!
            ^
 SyntaxError: invalid syntax
@@ -81,7 +81,7 @@ SyntaxError: invalid syntax
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-python: can't open file '300117444.py': [Errno 2] No such file or directory
+python: can't open file 'b300117444.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
@@ -127,7 +127,7 @@ None
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
-  File "300118524.py", line 19
+  File "b300118524.py", line 19
     return item
     ^
 IndentationError: expected an indented block
