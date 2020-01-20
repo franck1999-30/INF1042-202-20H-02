@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 14 15:13:16 2020
+# Introduction
 
-@author: User
-"""
+## Big O Notation
 
-print ( "Bonne Année ")
-p
+![image](BigO.png)
