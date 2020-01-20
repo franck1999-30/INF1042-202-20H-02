@@ -20,7 +20,7 @@ my_list = [2, 7, 11, 14, 19, 20, 25]
 
 print( binary_seach (my_list, 25)) # affiche 6, l'indice ou se trouve la valeur recherche 25
 print( binary_seach(my_list, - 1)) # affiche None car ne trouve aucun indice
-
+```
 
 ## [Participation](.scripts/Participation.md)
 
