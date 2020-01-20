@@ -1,4 +1,4 @@
-# Correction au 20-01-2020 16:29
+# Correction au 20-01-2020 16:39
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Correction du script 300111441 =============== 
@@ -24,6 +24,7 @@ SyntaxError: invalid syntax
 ## Etudiant 300115140 
 ###  =[BEGIN]============== Correction du script 300115140 =============== 
 2
+--------------------
 :tada: :tada: :tada:
 ###  =[END]============== Correction du script 300115140 =============== 
 
@@ -46,6 +47,7 @@ ModuleNotFoundError: No module named 'b300116593'
 ## Etudiant 300116670 
 ###  =[BEGIN]============== Correction du script 300116670 =============== 
 2
+--------------------
 :tada: :tada: :tada:
 ###  =[END]============== Correction du script 300116670 =============== 
 
@@ -61,6 +63,7 @@ ModuleNotFoundError: No module named 'b300116685'
 ###  =[BEGIN]============== Correction du script 300116973 =============== 
 7
 4
+--------------------
 :tada: :tada: :tada:
 ###  =[END]============== Correction du script 300116973 =============== 
 
@@ -96,6 +99,7 @@ ModuleNotFoundError: No module named 'b300117444'
 ###  =[BEGIN]============== Correction du script 300117705 =============== 
 2
 None
+--------------------
 :tada: :tada: :tada:
 ###  =[END]============== Correction du script 300117705 =============== 
 
@@ -132,7 +136,8 @@ ImportError: cannot import name 'binary_search' from 'b300117806' (./b300117806.
 ## Etudiant 300118196 
 ###  =[BEGIN]============== Correction du script 300118196 =============== 
 3
-:stop: :stop: :bang:
+--------------------
+:no_entry: :no_entry: :interrobang:
 ###  =[END]============== Correction du script 300118196 =============== 
 
 ## Etudiant 300118524 
