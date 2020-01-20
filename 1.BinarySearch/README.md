@@ -6,7 +6,7 @@ Algorithme de `Binary Search`
 
 Example de nom de fichier `b300098957.py`
 
-:two: Écrire le programme de la recherche dichotomique dans un fonction ayant la signature suivante:
+:two: Écrire le programme de la recherche dichotomique dans une fonction ayant la signature suivante:
 
 ```python
 def binary_seach( list, item):
