@@ -19,8 +19,8 @@ echo "| :x:                | Projet inexistant             |"
 
 
 echo "\n## Résultat\n"
-echo "|:hash:| Boréal :id:                | :100:              |"
-echo "|------|----------------------------|--------------------|"
+echo "|:hash:| Boréal :id:                | Execution          | Notation         |"
+echo "|------|----------------------------|--------------------|------------------|"
 
 i=1
 
@@ -28,8 +28,8 @@ i=1
 for id in "${ETUDIANTS[@]}"
 do
    FILE=b${id}.py
-   OK="| ${i} | [${id}](${FILE}) | [:heavy_check_mark:](Correction.md#etudiant-${id}) | "
-   KO="| ${i} | [${id}](${FILE}) | [:x:](Correction.md#etudiant-${id})                | "
+   OK="| ${i} | [${id}](${FILE}) | [:heavy_check_mark:](Execution.md#etudiant-${id}) | [:dashboard:](Execution.md#etudiant-${id}) | "
+   KO="| ${i} | [${id}](${FILE}) | [:x:](Execution.md#etudiant-${id})                | [:dashboard:](Execution.md#etudiant-${id}) | "
    if [ -f "$FILE" ]; then
        echo ${OK}
    else

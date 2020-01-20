@@ -1,30 +1,24 @@
 #!/bin/sh
 
 # --------------------------------------
-#
+# Grader
 #
 #
 # --------------------------------------
 
 source ../.scripts/students.sh --source-only
 
-source .scripts//spec.sh --source-only
-
-echo "# Corrections au `date +"%d-%m-%Y %H:%M"`"
+echo "# Correction au `date +"%d-%m-%Y %H:%M"`"
 
 for id in "${ETUDIANTS[@]}"
 do
 
    echo "\n## Etudiant ${id} "
-   echo "###  =[BEGIN]============== Exécution du script ${id} =============== "
-   echo "\`\`\`"
+   echo "###  =[BEGIN]============== Correction du script ${id} =============== "
 
-   python b${id}.py
+   python .scripts/b${id}.spec.py
 
-
-   echo "\`\`\`"
-   echo "###  =[END]============== Exécution du script ${id} =============== "
+   echo "###  =[END]============== Correction du script ${id} =============== "
    
-   generate_spec 
-
+   
 done
