@@ -4,7 +4,7 @@ Created on Wed Jan 15 15:04:41 2020
 
 @author: willfrid boris
 """
-def binary_seach(list,item):
+def binary_search(list,item):
     low=0
     hight=len(my_list)-1
     
