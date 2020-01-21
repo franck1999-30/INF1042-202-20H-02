@@ -31,7 +31,7 @@ my_list = [5, 7, 7, 12, 14, 18, 20, 23]
 
 
 print (binary_search (my_list, 20))
-print (binary_search (my_list, 7))
+
 
 
 
